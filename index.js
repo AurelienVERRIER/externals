@@ -11,4 +11,4 @@ app.use('/home', homeRoutes)
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`)
-})
+}) 
